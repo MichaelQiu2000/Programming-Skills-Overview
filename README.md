@@ -1,2 +1,2 @@
 # Programming-Skills-Overview
-This is a file introducing my overall programming skills
+This is a two page file introducing my overall programming skills
